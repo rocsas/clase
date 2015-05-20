@@ -4,6 +4,7 @@ package Domini;
 * @ Author Mike Clark
 * @ Author Clarkware Consulting, Inc 
 */
+
 public class Product {
 	
 	private String _title;
